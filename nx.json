@@ -2,20 +2,14 @@
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "targetDefaults": {
     "build": {
-      "dependsOn": [
-        "^build"
-      ],
-      "outputs": [
-        "{projectRoot}/.next"
-      ],
+      "dependsOn": ["^build"],
+      "outputs": ["{projectRoot}/.next"],
       "cache": true
     },
-    "lint": {
-      "cache": true
-    },
-    "test": {
-      "cache": true
-    }
+    "lint": { "cache": true },
+    "test": { "cache": true }
   },
-  "defaultBase": "main"
+  "defaultBase": "main",
+  "nxCloudAccessToken": "NmZiNTk1NTctMmI5ZS00NGNkLWFiM2MtMDMwYzBjNmUyMWNmfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202"
 }
