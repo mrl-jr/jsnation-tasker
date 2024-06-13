@@ -10,6 +10,6 @@
     "test": { "cache": true }
   },
   "defaultBase": "main",
-  "nxCloudAccessToken": "NmZiNTk1NTctMmI5ZS00NGNkLWFiM2MtMDMwYzBjNmUyMWNmfHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "MDk5MzQxZTgtNTU1Zi00MDZjLWJhNzAtNmFiYTg3ODc0OTJlfHJlYWQtd3JpdGU=",
   "nxCloudUrl": "http://localhost:4202"
 }
